@@ -16,8 +16,4 @@ public class HomeController {
         return "Home" + principal.getName();
     }
 
-//    @Bean
-//    public UID s() {
-//        return new UID();
-//    }
 }
